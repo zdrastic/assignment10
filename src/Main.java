@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Try git again");
         System.out.println("message for github master");
         System.out.println("message for production that will then appear in master");
+        System.out.println("local production to master");
     }
 }
