@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Home development work");
+        System.out.println("work development work");
+        for (int i = 0; i < 5 ; i++) {
+            System.out.println(i);
+        }
     }
+
 }
